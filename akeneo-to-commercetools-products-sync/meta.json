@@ -1,0 +1,17 @@
+{
+  "name": "Alumio to Commercetools – Product Sync",
+  "description": "Sync full product data from Alumio storage into Commercetools product & variants using the Commercetools API.",
+  "source_system": "Alumio",
+  "target_system": "Commercetools",
+  "tags": [
+    "product",
+    "simple-product",
+    "sync",
+    "akeneo",
+    "commercetools",
+    "variants",
+    "publish"
+  ],
+  "version": "1.0.0",
+  "alumio_version": "3.87.0-RC2"
+}
