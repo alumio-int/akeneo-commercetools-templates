@@ -1,0 +1,14 @@
+{
+  "name": "Alumio to CommerceTools - Categories Sync",
+  "description": "Sync Categories from Akeneo into CommerceTools.",
+  "source_system": "Alumio",
+  "target_system": "CommerceTools",
+  "tags": [
+    "category",
+    "sync",
+    "akeneo",
+    "commercetools"
+  ],
+  "version": "1.0.0",
+  "alumio_version": "3.87.0-RC2"
+}
