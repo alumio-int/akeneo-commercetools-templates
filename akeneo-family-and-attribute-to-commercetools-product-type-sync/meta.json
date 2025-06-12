@@ -1,0 +1,16 @@
+{
+  "name": "Akeneo Family and Attribute to CommerceTools Product Type Sync",
+  "description": "Sync families and attributes from Akeneo into CommerceTools product types.",
+  "source_system": "Alumio",
+  "target_system": "CommerceTools",
+  "tags": [
+    "family",
+    "attribute",
+    "product type",
+    "sync",
+    "akeneo",
+    "commercetools"
+  ],
+  "version": "1.0.0",
+  "alumio_version": "3.87.0-RC2"
+}
