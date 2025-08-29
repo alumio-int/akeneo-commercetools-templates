@@ -9,8 +9,9 @@
     "product type",
     "sync",
     "akeneo",
-    "commercetools"
+    "commercetools",
+    "reference entity"
   ],
-  "version": "1.0.0",
+  "version": "1.1.0",
   "alumio_version": "3.87.0-RC2"
 }
